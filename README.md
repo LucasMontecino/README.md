@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Vue.js and Svelte**
-
-- 📫 Contacto email **lucasmontecino95@gmail.com**
+- 📫 Email Contact **lucasmontecino95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
